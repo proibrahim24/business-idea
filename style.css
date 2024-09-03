@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    background-color: #030e14 ;
+}
+.nav{
+    border: 1px solid white;
+    height: 50px;
+}
+.navtext{
+    color: #75b4c4;
+    margin-top: px;
+    font-family: "Playwrite CU";
+    text-decoration: underline 3px #e83a4b;
+    margin-left: 20px;
+    font-size: 30px;
+}
+.lists{
+    font-size: 24px;
+    margin-left: 620px;
+    margin-top: -30px;
+    color: #75b4c4;
+    list-style-type: none;
+}
+li{
+    margin-right: 30px;
+    font-family: "SUSE";
+    display: inline-block;
+}
+.lists:hover{
+    un
+}
+a{
+    color: #75b4c4;
+    text-decoration: none;
+}
